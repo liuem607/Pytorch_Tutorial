@@ -54,7 +54,7 @@ You can SKIP all the above procedures.  !!
 
     Open another terminal, do:
     
-    $ ssh -N -L localhost:yyyy:localhost:xxxx wenqianliu@129.10.xx.xx -p 44
+    $ ssh -N -L localhost:yyyy:localhost:xxxx xxxxx@129.10.xx.xx -p 44
     
     (e.g. 'xxxx' = '8889', 'yyyy' = '8880')
     
