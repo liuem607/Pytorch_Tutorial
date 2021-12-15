@@ -19,7 +19,7 @@ $ source activate yourenvname
 
 Once you typed, your terminal should look sth like:
 
-(yourenvname) wenqianliu@xxxxxxxx: $ 
+(yourenvname) xxxxxx@xxxxxxxx: $ 
 
 Install all your needed packages under 'yourenvname' by typing (generally speaking):
 
